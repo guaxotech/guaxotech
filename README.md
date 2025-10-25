@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science Student | AI & Automation Enthusiast | SaaS Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on AI/ML projects, automation systems, and IoT integrations.<br>🤝 I’m looking for help with building predictive models for home automation and data-driven optimization.<br>🌱 I’m currently learning Machine Learning (Python, TensorFlow, Scikit-Learn) and automation with Arduino + IoT<br>💬 Ask me about AI, Automation, Python, IoT, and AWS<br>⚡ Fun fact
+🔭 I’m currently working on CondoRise — a smart SaaS platform for managing condominium protocols with AI-powered automation.<br>👯 I’m looking to collaborate on AI/ML projects, automation systems, and IoT integrations.<br>🤝 I’m looking for help with building predictive models for home automation and data-driven optimization.<br>🌱 I’m currently learning Machine Learning (Python, TensorFlow, Scikit-Learn) and automation with Arduino + IoT<br>💬 Ask me about AI, Automation, Python, IoT, and AWS<br>⚡ Fun fact: I love building side projects that actually make life easier.
 
 
 ## 🌐 Socials:
